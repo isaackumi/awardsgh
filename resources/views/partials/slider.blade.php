@@ -1,6 +1,6 @@
 <section class="hero-area hero-post-slides owl-carousel">
     <!-- Single Hero Slide -->
-    <div class="single-hero-slide bg-img bg-overlay d-flex align-items-center justify-content-center" style="background-image: url({{asset('assets/img/rad/slider-img-1.jpg')}} );">
+    <div class="single-hero-slide bg-img  d-flex align-items-center justify-content-center" style="background-image: url({{asset('assets/img/rad/slider-img-1.jpg')}} );">
         <!-- Post Content -->
         <div class="container">
             <div class="row">
@@ -17,7 +17,7 @@
     </div>
 
     <!-- Single Hero Slide -->
-    <div class="single-hero-slide bg-img bg-overlay d-flex align-items-center justify-content-center" style="background-image: url({{asset('assets/img/rad/slider-img-2.jpg')}} );">
+    <div class="single-hero-slide bg-img  d-flex align-items-center justify-content-center" style="background-image: url({{asset('assets/img/rad/slider-img-2.jpg')}} );">
         <!-- Post Content -->
         <div class="container">
             <div class="row">
@@ -32,7 +32,7 @@
         </div>
     </div>
 
-    <div class="single-hero-slide bg-img bg-overlay d-flex align-items-center justify-content-center" style="background-image: url({{asset('assets/img/rad/slider-img-3.jpg')}} );">
+    <div class="single-hero-slide bg-img  d-flex align-items-center justify-content-center" style="background-image: url({{asset('assets/img/rad/slider-img-3.jpg')}} );">
         <!-- Post Content -->
         <div class="container">
             <div class="row">
