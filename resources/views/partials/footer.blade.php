@@ -36,12 +36,12 @@
                     <!-- Single Footer Widget -->
                     <div class="col-12 col-sm-6 col-lg-3">
                         <div class="single-footer-widget mb-70">
-                            <h5 class="widget-title">News Latest</h5>
+                            <h5 class="widget-title">Upcoming Events</h5>
 
                             <!-- Single Latest News -->
                             <div class="single-latest-news">
                                 <a href="#">Awards 2020</a>
-                                <p><i class="fa fa-calendar" aria-hidden="true"></i> August 6, 2020</p>
+                                <p><i class="fa fa-calendar" aria-hidden="true"></i> October 30, 2020</p>
                             </div>
 
                             <!-- Single Latest News -->
@@ -80,7 +80,7 @@
                     <div class="col-12 col-md-6">
                         <div class="copywrite-text">
                             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyrights © 2020 All Rights Reserved by RADComm llc.
+Copyrights © 2020 All Rights Reserved by RADComm LLC.
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 </p>
                         </div>

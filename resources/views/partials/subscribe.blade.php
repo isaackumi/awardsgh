@@ -4,8 +4,8 @@
             <!-- Subscribe Text -->
             <div class="col-12 col-lg-6">
                 <div class="subscribe-text">
-                    <h3>Subscribe To Our Newsletter</h3>
-                    <h6>Subcribe Us And Tell Us About Your Story</h6>
+                    <h3>Subscribe To Our Mailing List</h3>
+                    <h6>Be informed and stay committed with us</h6>
                 </div>
             </div>
             <!-- Subscribe Form -->
@@ -13,7 +13,7 @@
                 <div class="subscribe-form text-right">
                     <form action="#">
                         <input type="email" name="subscribe-email" id="subscribeEmail" placeholder="Your Email">
-                        <button type="submit" class="btn crose-btn">subscribe</button>
+                        <button type="submit" class="btn crose-btn">Join us Now</button>
                     </form>
                 </div>
             </div>

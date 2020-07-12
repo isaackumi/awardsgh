@@ -12,7 +12,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="call-to-action-content text-center">
-                        <h6>About National Communication Awards</h6>
+                        <h6>About National Communications Award</h6>
                         <!-- <h>Find a place to connect and grow through a small group, class, or regular gathering.</h2> -->
                         <p style="color: white;">National Communications Awards is a development communications and media awards programme powered by RAD Communications and partners, to champion communications, organizational and national development. The event will celebrate and reward excellent communications and media companies, teams and individuals across Ghana. </p>
                         <a href="#" class="btn crose-btn btn-2">Join Now</a>
@@ -163,11 +163,11 @@
                                     <!-- Content -->
                                     <div class="upcoming-events-content d-flex flex-wrap align-items-center">
                                         <div class="events-text">
-                                            <h4>National Communication Awards '20</h4>
+                                            <h4>National Communications Awards '20</h4>
                                             <div class="events-meta">
-                                                <a href="#"><i class="fa fa-calendar" aria-hidden="true"></i> March 06, 2020</a>
-                                                <a href="#"><i class="fa fa-clock-o" aria-hidden="true"></i> 09:00 - 11:00</a>
-                                                <a href="#"><i class="fa fa-map-marker" aria-hidden="true"></i> Ofakor Barrier, Greater Accra</a>
+                                                <a href="#"><i class="fa fa-calendar" aria-hidden="true"></i> October 30, 2020</a>
+                                                <a href="#"><i class="fa fa-clock-o" aria-hidden="true"></i> 4pm prompt</a>
+                                                <a href="#"><i class="fa fa-map-marker" aria-hidden="true"></i> Africa Trade House Accra</a>
                                             </div>
                                             <!-- <p>Don't be left out</p> -->
                                             <a href="/">Read More <i class="fa fa-angle-double-right"></i></a>
@@ -178,13 +178,13 @@
                                     </div>
                                 </div>
 
-                                <!-- Single Upcoming Events Area -->
+                              <!--
                                 <div class="single-upcoming-events-area d-flex flex-wrap align-items-center">
-                                    <!-- Thumbnail -->
+
                                     <div class="upcoming-events-thumbnail">
                                         <img src="{{asset('assets/img/rad/nca_5466.jpg')}} " alt="">
                                     </div>
-                                    <!-- Content -->
+
                                     <div class="upcoming-events-content d-flex flex-wrap align-items-center">
                                         <div class="events-text">
                                             <h4>Rising Star Awards</h4>
@@ -193,14 +193,14 @@
                                                 <a href="#"><i class="fa fa-clock-o" aria-hidden="true"></i> 09:00 - 11:00</a>
                                                 <a href="#"><i class="fa fa-map-marker" aria-hidden="true"></i> Ofakor Barrier, Greater Accra</a>
                                             </div>
-                                            <!-- <p>Join us now</p> -->
+
                                             <a href="/">Read More <i class="fa fa-angle-double-right"></i></a>
                                         </div>
                                         <div class="find-out-more-btn">
                                             <a href="/" class="btn crose-btn btn-2">Find Out More</a>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
 
                                 <!-- Single Upcoming Events Area -->
                                 <!-- <div class="single-upcoming-events-area d-flex flex-wrap align-items-center">

@@ -9,7 +9,7 @@
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- Title -->
-    <title>RADComm llc</title>
+    <title>National Communications Awards</title>
 
     <!-- Favicon -->
     <link rel="icon" class="rounded-circle" href="{{asset('assets/img/rad/gma_logo.png')}} ">
@@ -39,7 +39,7 @@
                                 <div class="top-social-info">
                                     <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                                     <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                                    <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+                                    <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
                                 </div>
                             </div>
                             <!-- Top Header Meta -->
@@ -116,9 +116,9 @@
 
                                     </li>
                                     <!-- <li><a href="/sermons">Sermons</a></li> -->
-                                    <li><a href="/#">Nomination </a>
+                                    <li><a href="/#">Nominations </a>
                                       <ul class="dropdown">
-                                          <li><a href="/media-team">Nomination benefits</a></li>
+                                          <li><a href="/media-team">Nomination_Benefits</a></li>
                                           <li><a href="/outreach-team">Submission </a></li>
                                           <li><a href="/">Enter Nomination </a></li>
                                             <li><a href="/">Nomination rules </a></li>
