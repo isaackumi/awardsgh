@@ -7,15 +7,15 @@
   @include('partials.welcome')
 
     <!-- ##### Call To Action Area Start ##### -->
-    <section class="call-to-action-area section-padding-100 bg-img bg-overlay" style="background-image: url({{asset('assets/img/rad/NCAWARDS_2020.jpg')}} );">
+    <section class="call-to-action-area section-padding-100 bg-img " style="background-image: url({{asset('assets/img/rad/NCAWARDS_2020.jpg')}} );">
         <div class="container">
             <div class="row">
                 <div class="col-12">
                     <div class="call-to-action-content text-center">
-                        <h6>About National Communications Award</h6>
+                        <!-- <h6>About National Communications Award</h6> -->
                         <!-- <h>Find a place to connect and grow through a small group, class, or regular gathering.</h2> -->
-                        <p style="color: white;">National Communications Awards is a development communications and media awards programme powered by RAD Communications and partners, to champion communications, organizational and national development. The event will celebrate and reward excellent communications and media companies, teams and individuals across Ghana. </p>
-                        <a href="#" class="btn crose-btn btn-2">Join Now</a>
+                        <!-- <p style="color: white;">National Communications Awards is a development communications and media awards programme powered by RAD Communications and partners, to champion communications, organizational and national development. The event will celebrate and reward excellent communications and media companies, teams and individuals across Ghana. </p> -->
+                        <!-- <a href="#" class="btn crose-btn btn-2">Join Now</a> -->
                     </div>
                 </div>
             </div>

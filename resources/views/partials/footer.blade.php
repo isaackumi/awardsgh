@@ -59,10 +59,11 @@
                             <h5 class="widget-title">Contact Us</h5>
 
                             <div class="contact-information">
-                                <p><i class="fa fa-map-marker" aria-hidden="true"></i> Ofakor Barrier</p>
-                                <a href="callto:001-1234-88888"><i class="fa fa-phone" aria-hidden="true"></i> +233 20 562 7670</a>
-                                <a href="mailto:perezd295@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i> info.radcomm@gmail.com</a>
-                                <p><i class="fa fa-clock-o" aria-hidden="true"></i> Mon - Fri: 08.00am - 18.00pm</p>
+                                <p><i class="fa fa-map-marker" aria-hidden="true"></i> RAD Communications Limited,
+Achimota- Ofakor Barrier, Accra. </p>
+                                <a href="callto:001-1234-88888"><i class="fa fa-phone" aria-hidden="true"></i> +233 247415140</a>
+                                <a href="mailto:info@nationalcommunicationsawards.com"><i class="fa fa-envelope" aria-hidden="true"></i> info@nationalcommunicationsawards.com</a>
+                                <p><i class="fa fa-clock-o" aria-hidden="true"></i> Opening Hours  Mon - Fri: 08.00am - 16.00pm</p>
                             </div>
 
                         </div>

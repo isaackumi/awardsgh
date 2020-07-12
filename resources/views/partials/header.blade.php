@@ -34,7 +34,7 @@
                         <div class="top-header-content d-flex flex-wrap align-items-center justify-content-between">
                             <!-- Top Header Meta -->
                             <div class="top-header-meta d-flex flex-wrap">
-                                <a href="#" class="open" data-toggle="tooltip" data-placement="bottom" title="10 Am to 6 PM"><i class="fa fa-clock-o" aria-hidden="true"></i> <span>Opening Hours - 10 Am to 6 PM</span></a>
+                                <a href="#" class="open" data-toggle="tooltip" data-placement="bottom" title="10 Am to 6 PM"><i class="fa fa-clock-o" aria-hidden="true"></i> <span>Opening Hours  Mon - Fri: 08.00am - 16.00pm</span></a>
                                 <!-- Social Info -->
                                 <div class="top-social-info">
                                     <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
@@ -44,8 +44,8 @@
                             </div>
                             <!-- Top Header Meta -->
                             <div class="top-header-meta">
-                                <a href="mailto:#" class="email-address"><i class="fa fa-envelope" aria-hidden="true"></i> <span>info@gmai.com</span></a>
-                                <a href="tel:+233548769251" class="phone"><i class="fa fa-phone" aria-hidden="true"></i> <span>+233 20 0000000000</span></a>
+                                <a href="mailto:info@nationalcommunicationsawards.com" class="email-address"><i class="fa fa-envelope" aria-hidden="true"></i> <span>info@nationalcommunicationsawards.com</span></a>
+                                <a href="tel:+233247415140" class="phone"><i class="fa fa-phone" aria-hidden="true"></i> <span>+233 247415140</span></a>
                             </div>
                         </div>
                     </div>
