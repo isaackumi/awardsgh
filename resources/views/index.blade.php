@@ -12,9 +12,10 @@
             <div class="row">
                 <div class="col-12">
                     <div class="call-to-action-content text-center">
-                        <h6>A Place For You</h6>
-                        <h2>Find a place to connect and grow through a small group, class, or regular gathering.</h2>
-                        <a href="#" class="btn crose-btn btn-2">Become A Member</a>
+                        <h6>About National Communication Awards</h6>
+                        <!-- <h>Find a place to connect and grow through a small group, class, or regular gathering.</h2> -->
+                        <p style="color: white; font-size: 30px">National Communications Awards is a development communications and media awards programme powered by RAD Communications and partners, to champion communications, organizational and national development. The event will celebrate and reward excellent communications and media companies, teams and individuals across Ghana. </p>
+                        <a href="#" class="btn crose-btn btn-2">Join Now</a>
                     </div>
                 </div>
             </div>
@@ -29,15 +30,22 @@
 
                 <div class="col-12">
                     <div class="section-heading">
-                        <h2>Latest Sermons</h2>
-                        <p>Loaded with fast-paced worship, activities, and video teachings to address real issues that students face each day</p>
+                        <h2>Event Calender</h2>
+                        <div class="mt-10">
+                          <p>Official Launch and Opening of Nominations  -<strong> 20th July 2020</strong> </p>
+                          <p>Unveiling of Nominees and Voting – <strong>31st August 2020</strong> </p>
+                          <p>Event Day – Saturday, <strong>7th November 2020</strong> </p>
+                        </div>
+
                     </div>
                 </div>
             </div>
 
             <div class="row justify-content-center">
 
-                <div class="col-12 col-md-6 col-lg-4">
+
+
+                <!-- <div class="col-12 col-md-6 col-lg-4">
                     <div class="single-latest-sermons mb-100">
                         <div class="sermons-thumbnail">
                             <img src=" {{asset('assets/img/bg-img/7.jpg')}}" alt="">
@@ -61,10 +69,10 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
 
-                <div class="col-12 col-md-6 col-lg-4">
+                <!-- <div class="col-12 col-md-6 col-lg-4">
                     <div class="single-latest-sermons mb-100">
                         <div class="sermons-thumbnail">
                             <img src=" {{asset('assets/img/bg-img/8.jpg')}}" alt="">
@@ -88,10 +96,10 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
 
-                <div class="col-12 col-md-6 col-lg-4">
+                <!-- <div class="col-12 col-md-6 col-lg-4">
                     <div class="single-latest-sermons mb-100">
                         <div class="sermons-thumbnail">
                             <img src="{{asset('assets/img/bg-img/9.jpg')}} " alt="">
@@ -115,7 +123,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>
