@@ -14,7 +14,7 @@
                     <div class="call-to-action-content text-center">
                         <h6>About National Communication Awards</h6>
                         <!-- <h>Find a place to connect and grow through a small group, class, or regular gathering.</h2> -->
-                        <p style="color: white; font-size: 30px">National Communications Awards is a development communications and media awards programme powered by RAD Communications and partners, to champion communications, organizational and national development. The event will celebrate and reward excellent communications and media companies, teams and individuals across Ghana. </p>
+                        <p style="color: white;">National Communications Awards is a development communications and media awards programme powered by RAD Communications and partners, to champion communications, organizational and national development. The event will celebrate and reward excellent communications and media companies, teams and individuals across Ghana. </p>
                         <a href="#" class="btn crose-btn btn-2">Join Now</a>
                     </div>
                 </div>
