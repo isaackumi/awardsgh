@@ -6,7 +6,7 @@
             <!-- Section Heading -->
             <div class="col-12">
                 <div class="section-heading">
-                    <h2>Ghana Communications Award</h2>
+                    <h2>National Communications Award</h2>
                     <!-- <p>A church isn't a building—it's the people. We meet in locations around the United States and globally at Life.Church Online. No matter where you join us.</p> -->
                 </div>
             </div>

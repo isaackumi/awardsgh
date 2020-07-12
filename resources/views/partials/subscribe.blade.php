@@ -5,7 +5,7 @@
             <div class="col-12 col-lg-6">
                 <div class="subscribe-text">
                     <h3>Subscribe To Our Mailing List</h3>
-                    <h6>Be informed and stay committed with us</h6>
+                    <h6>Be informed and stay connected with us</h6>
                 </div>
             </div>
             <!-- Subscribe Form -->
