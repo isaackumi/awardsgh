@@ -9,7 +9,7 @@
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href="#"><i class="fa fa-home"></i> Home</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">seat-booking</li>
+                            <li class="breadcrumb-item active" aria-current="page">Contact</li>
                         </ol>
                     </nav>
                 </div>
@@ -67,9 +67,8 @@
                 <!-- Section Heading -->
                 <div class="col-12">
                     <div class="section-heading">
-                        <h2>Book a seat</h2>
-                        <p>The National Communications Awards Seat Booking</p>
-                        <p>Book your seat for the National Communications Awards. A relaxed champagne reception will welcome the industry's most respected individuals before a delightful meal is served, then as the tension mounts we will announce the winners. The evening will be the hottest ticket in the media and communications calendar.</p>
+                        <h2>Add Nomination</h2>
+                        <p>Your email address will not be published. Required fields are marked.</p>
                     </div>
                 </div>
             </div>
@@ -141,12 +140,12 @@
                                         <input type="text" class="form-control" id="contact-number" placeholder="(+12) 123 456 7910">
                                     </div>
                                 </div>
-                                <div class="col-12">
+                                <!-- <div class="col-12">
                                     <div class="form-group">
-                                        <label for="message">Additional information*:</label>
+                                        <label for="message">Message*:</label>
                                         <textarea class="form-control" name="message" id="message" cols="30" rows="10" placeholder="Message"></textarea>
                                     </div>
-                                </div>
+                                </div> -->
                                 <div class="col-12 text-center">
                                     <button type="submit" class="btn crose-btn mt-15">Submit Now</button>
                                 </div>

@@ -18,3 +18,9 @@ use Illuminate\Support\Facades\Route;
 // });
 
 Route::get('/','PagesController@index')->name('home');
+Route::get('/contact','PagesController@contact')->name('contact');
+Route::get('/nominate','PagesController@nominate')->name('nominate');
+Route::get('/seat-booking','PagesController@seatBooking')->name('seat-booking');
+Route::get('/faqs','PagesController@faqs')->name('faqs');
+Route::get('/pricing','PagesController@pricing')->name('pricing');
+Route::get('/sponsorship','PagesController@sponsorship')->name('sponsorship');

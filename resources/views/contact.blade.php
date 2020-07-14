@@ -2,14 +2,14 @@
     <!-- ##### Header Area End ##### -->
 
     <!-- ##### Breadcrumb Area Start ##### -->
-    <div class="breadcrumb-area mt-10">
+    <div class="breadcrumb-area">
         <div class="container">
             <div class="row">
                 <div class="col-12">
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href="#"><i class="fa fa-home"></i> Home</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">seat-booking</li>
+                            <li class="breadcrumb-item active" aria-current="page">Contact</li>
                         </ol>
                     </nav>
                 </div>
@@ -20,13 +20,13 @@
 
     <!-- ##### Google Maps Start ##### -->
     <div class="map-area mt-30">
-        <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22236.40558254599!2d-118.25292394686001!3d34.057682914027104!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c75ddc27da13%3A0xe22fdf6f254608f4!2z4Kay4Ka4IOCmj-CmnuCnjeCmnOCnh-CmsuCnh-CmuCwg4KaV4KeN4Kav4Ka-4Kay4Ka_4Kar4KeL4Kaw4KeN4Kao4Ka_4Kav4Ka84Ka-LCDgpq7gpr7gprDgp43gppXgpr_gpqgg4Kav4KeB4KaV4KeN4Kak4Kaw4Ka-4Ka34KeN4Kaf4KeN4Kaw!5e0!3m2!1sbn!2sbd!4v1532328708137" allowfullscreen></iframe> -->
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22236.40558254599!2d-118.25292394686001!3d34.057682914027104!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c75ddc27da13%3A0xe22fdf6f254608f4!2z4Kay4Ka4IOCmj-CmnuCnjeCmnOCnh-CmsuCnh-CmuCwg4KaV4KeN4Kav4Ka-4Kay4Ka_4Kar4KeL4Kaw4KeN4Kao4Ka_4Kav4Ka84Ka-LCDgpq7gpr7gprDgp43gppXgpr_gpqgg4Kav4KeB4KaV4KeN4Kak4Kaw4Ka-4Ka34KeN4Kaf4KeN4Kaw!5e0!3m2!1sbn!2sbd!4v1532328708137" allowfullscreen></iframe>
     </div>
     <!-- ##### Google Maps End ##### -->
 
     <!-- ##### Contact Area Start ##### -->
-    <!-- <section class="contact-area mt-10">
-        <div class="container mt-10">
+    <section class="contact-area">
+        <div class="container">
             <div class="row">
                 <div class="col-12">
                     <div class="contact-content-area">
@@ -57,7 +57,7 @@
                 </div>
             </div>
         </div>
-    </section> -->
+    </section>
     <!-- ##### Contact Area End ##### -->
 
     <!-- ##### Contact Form Area Start ##### -->
@@ -67,9 +67,8 @@
                 <!-- Section Heading -->
                 <div class="col-12">
                     <div class="section-heading">
-                        <h2>Book a seat</h2>
-                        <p>The National Communications Awards Seat Booking</p>
-                        <p>Book your seat for the National Communications Awards. A relaxed champagne reception will welcome the industry's most respected individuals before a delightful meal is served, then as the tension mounts we will announce the winners. The evening will be the hottest ticket in the media and communications calendar.</p>
+                        <h2>Leave A Message</h2>
+                        <p>Your email address will not be published. Required fields are marked.</p>
                     </div>
                 </div>
             </div>
@@ -79,71 +78,28 @@
                     <!-- Contact Form Area -->
                     <div class="contact-form-area">
                         <form action="#" method="post">
-                          @csrf
                             <div class="row">
                                 <div class="col-12 col-lg-4">
                                     <div class="form-group">
-                                        <label for="contact-name">First Name*:</label>
-                                        <input type="text" class="form-control" id="contact-name" placeholder="First Name">
-                                    </div>
-                                </div>
-
-                                <div class="col-12 col-lg-4">
-                                    <div class="form-group">
-                                        <label for="contact-name">Last Name*:</label>
-                                        <input type="text" class="form-control" id="contact-name" placeholder="Last Name">
+                                        <label for="contact-name">Full Name*:</label>
+                                        <input type="text" class="form-control" id="contact-name" placeholder="Full Name">
                                     </div>
                                 </div>
                                 <div class="col-12 col-lg-4">
                                     <div class="form-group">
                                         <label for="contact-email">Email*:</label>
-                                        <input type="email" class="form-control" id="contact-email" placeholder="nac@nationalcommunicationsawards.com">
-                                    </div>
-                                </div>
-
-                                <div class="col-12 col-lg-4">
-                                    <div class="form-group">
-                                        <label for="contact-email">Type of ticket*:</label>
-                                        <input type="text" class="form-control" id="contact-email" placeholder="VIP">
-                                    </div>
-                                </div>
-
-                                <div class="col-12 col-lg-4">
-                                    <div class="form-group">
-                                        <label for="contact-name">Company Name*:</label>
-                                        <input type="text" class="form-control" id="contact-name" placeholder="Company Name">
-                                    </div>
-                                </div>
-
-                                <div class="col-12 col-lg-4">
-                                    <div class="form-group">
-                                        <label for="contact-name">Your Position*:</label>
-                                        <input type="text" class="form-control" id="contact-name" placeholder="Your Position">
-                                    </div>
-                                </div>
-
-                                <div class="col-12 col-lg-4">
-                                    <div class="form-group">
-                                        <label for="contact-name">Company Address*:</label>
-                                        <input type="text" class="form-control" id="contact-name" placeholder="Company Address">
-                                    </div>
-                                </div>
-
-                                <div class="col-12 col-lg-4">
-                                    <div class="form-group">
-                                        <label for="contact-name">Company City*:</label>
-                                        <input type="text" class="form-control" id="contact-name" placeholder="Company City">
+                                        <input type="email" class="form-control" id="contact-email" placeholder="info.deercreative@gmail.com">
                                     </div>
                                 </div>
                                 <div class="col-12 col-lg-4">
                                     <div class="form-group">
-                                        <label for="contact-number"> Company Phone*:</label>
+                                        <label for="contact-number">Phone*:</label>
                                         <input type="text" class="form-control" id="contact-number" placeholder="(+12) 123 456 7910">
                                     </div>
                                 </div>
                                 <div class="col-12">
                                     <div class="form-group">
-                                        <label for="message">Additional information*:</label>
+                                        <label for="message">Message*:</label>
                                         <textarea class="form-control" name="message" id="message" cols="30" rows="10" placeholder="Message"></textarea>
                                     </div>
                                 </div>
