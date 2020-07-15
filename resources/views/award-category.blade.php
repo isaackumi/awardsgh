@@ -75,7 +75,7 @@
 
       </p>
 
-      <a class="btn crose-btn mt-5 " href="#">Read More...</a>
+      <a class="btn crose-btn mt-5 " href="{{url('category-details_more')}}">Read More...</a>
 
       <!-- <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p> -->
     </div>
@@ -98,7 +98,7 @@
 14.	TV Show Producer of the Year
 
         </p>
-          <a class="btn crose-btn mt-5 " href="#">Read More...</a>
+          <a class="btn crose-btn mt-5 " href="{{url('category-details_more')}}">Read More...</a>
       </div>
 
       </div>
@@ -116,7 +116,7 @@
 19.	Publishing Company of the Year
 
           </p>
-            <a class="btn crose-btn mt-5 " href="#">Read More...</a>
+            <a class="btn crose-btn mt-5 " href="{{url('category-details_more')}}">Read More...</a>
         </div>
 
         </div>
@@ -137,7 +137,7 @@
 27.	Brand Influencer of the Year
 
             </p>
-              <a class="btn crose-btn mt-5 " href="#">Read More...</a>
+              <a class="btn crose-btn mt-5 " href="{{url('category-details_more')}}">Read More...</a>
           </div>
 
           </div>
@@ -158,7 +158,7 @@
 
               </p>
 
-                <a class="btn crose-btn mt-5 " href="#">Read More...</a>
+                <a class="btn crose-btn mt-5 " href="{{url('category-details_more')}}">Read More...</a>
             </div>
 
             </div>
@@ -181,7 +181,7 @@
 
                 </p>
 
-                  <a class="btn crose-btn mt-5 " href="#">Read More...</a>
+                  <a class="btn crose-btn mt-5 " href="{{url('category-details_more')}}">Read More...</a>
               </div>
 
               </div>
@@ -199,7 +199,7 @@
 
                   </p>
 
-                    <a class="btn crose-btn mt-5 " href="#">Read More...</a>
+                    <a class="btn crose-btn mt-5 " href="{{url('category-details_more')}}">Read More...</a>
                 </div>
 
                 </div>
@@ -219,7 +219,7 @@
 
 
                     </p>
-                      <a class="btn crose-btn mt-5 " href="#">Read More...</a>
+                      <a class="btn crose-btn mt-5 " href="{{url('category-details_more')}}">Read More...</a>
                   </div>
 
                   </div>
@@ -237,7 +237,7 @@
           45.	COVID-19 Technology Innovation Product
 
         </p>
-  <a class="btn crose-btn mt-5 " href="#">Read More...</a>
+  <a class="btn crose-btn mt-5 " href="{{url('category-details_more')}}">Read More...</a>
       </div>
 
       </div>
@@ -262,7 +262,7 @@
 
           </p>
 
-            <a class="btn crose-btn mt-5 " href="#">Read More...</a>
+            <a class="btn crose-btn mt-5 " href="{{url('category-details_more')}}">Read More...</a>
         </div>
 
         </div>

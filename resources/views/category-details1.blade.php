@@ -74,7 +74,7 @@ The Coronavirus Reporting Award is open to entrants across Ghana, as long as the
 
                   </div>
 
-                <a class="btn crose-btn mt-5 " href="{{url('category-details_more')}} ">Read More...</a>
+                <a class="btn crose-btn mt-5 " href="{{url('selection-criteria')}} ">Read More...</a>
 
                 </div>
             </div>
