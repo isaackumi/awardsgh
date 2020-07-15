@@ -95,9 +95,9 @@
                                     </li>
                                     <li><a href="#">Awards</a>
                                       <ul class="dropdown">
-                                          <li><a href="{{url('award-category')}}">Award Categories</a></li>
-                                          <li><a href="#">Awarding Board </a></li>
-                                          <li><a href="#">Awarding Process  </a></li>
+                                          <li><a href="{{url('award-category')}}">Award_Categories</a></li>
+                                          <!-- <li><a href="#">Awarding_Board </a></li> -->
+                                          <li><a href="{{url('award-process')}}">Awarding_Process  </a></li>
 
                                       </ul>
 

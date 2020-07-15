@@ -38,4 +38,21 @@ class PagesController extends Controller
    Public function awardCategory(){
      return view('award-category');
    }
+
+
+      Public function awardProcess(){
+        return view('awarding-process');
+      }
+
+      Public function categoryDetails(){
+        return view('category-details');
+      }
+
+      Public function categoryDetails1(){
+        return view('category-details1');
+      }
+
+      Public function selectionCriteria(){
+        return view('selection-criteria', ['title' => 'selection criteria']);
+      }
 }
