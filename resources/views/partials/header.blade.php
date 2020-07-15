@@ -83,7 +83,7 @@
                                     <li><a href="/">Home</a></li>
                                     <li><a href="/">About</a>
                                         <ul class="dropdown">
-                                            <li><a href="/">About The Awards</a></li>
+                                            <li><a href="{{url('about-the-awards')}}">About The Awards</a></li>
                                             <li><a href="{{url('faqs')}}">FAQ's </a></li>
                                             <!-- <li><a href="#">Why Attend </a></li> -->
                                               <!-- <li><a href="/">Downloads </a></li> -->
@@ -104,7 +104,7 @@
                                     </li>
                                     <li><a href="/#">Event</a>
                                       <ul class="dropdown">
-                                          <li><a href="/">Event Calender</a></li>
+                                          <li><a href="#">Event Calender</a></li>
                                           <!-- <li><a href="{{url('seat-booking')}}">Seat booking</a></li> -->
                                           <li><a href="{{url('sponsorship')}}">sponsorship </a></li>
                                             <!-- <li><a href="{{url('pricing')}}">Pricing</a></li> -->

@@ -59,4 +59,8 @@ class PagesController extends Controller
       Public function covid(){
         return view('covid-19', ['title' => 'selection criteria']);
       }
+
+      Public function about(){
+        return view('about-the-awards', ['title' => 'selection criteria']);
+      }
 }

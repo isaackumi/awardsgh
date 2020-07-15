@@ -64,13 +64,8 @@
     <div class="contact-form section-padding-0-100">
         <div class="container">
             <div class="row">
-                <!-- Section Heading -->
-                <div class="col-12">
-                    <div class="section-heading">
-                        <h5>Frequently Asked Questions</h5>
-                        <!-- <p>Your email address will not be published. Required fields are marked.</p> -->
-                    </div>
-                </div>
+                
+                <br>  <h5>Frequently Asked Questions</h5>
 
                 <div class="container">
                   <h6>Who can nominate?</h6>

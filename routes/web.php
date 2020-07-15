@@ -30,3 +30,4 @@ Route::get('/category-details','PagesController@categoryDetails')->name('categor
 Route::get('/category-details_more','PagesController@categoryDetails1')->name('category-details_more');
 Route::get('/selection-criteria','PagesController@selectionCriteria')->name('selection-criteria');
 Route::get('/covid-19','PagesController@covid')->name('covid-19');
+Route::get('/about-the-awards','PagesController@about')->name('about-the-awards');
