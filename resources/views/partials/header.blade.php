@@ -83,10 +83,10 @@
                                     <li><a href="/">Home</a></li>
                                     <li><a href="/">About</a>
                                         <ul class="dropdown">
-                                            <li><a href="/media-team">About The Awards</a></li>
+                                            <li><a href="/">About The Awards</a></li>
                                             <li><a href="{{url('faqs')}}">FAQ's </a></li>
-                                            <li><a href="/">Why Attend </a></li>
-                                              <li><a href="/">Downloads </a></li>
+                                            <li><a href="#">Why Attend </a></li>
+                                              <!-- <li><a href="/">Downloads </a></li> -->
 
                                             <!-- <li><a href="sermons.html">Prayer Team</a></li> -->
                                             <!-- <li><a href="sermons-details.html">Prayer</a></li> -->
@@ -95,19 +95,19 @@
                                     </li>
                                     <li><a href="#">Awards</a>
                                       <ul class="dropdown">
-                                          <li><a href="/media-team">Award Categories</a></li>
-                                          <li><a href="/outreach-team">Awarding Board </a></li>
-                                          <li><a href="/">Awarding Process  </a></li>
+                                          <li><a href="{{url('award-category')}}">Award Categories</a></li>
+                                          <li><a href="#">Awarding Board </a></li>
+                                          <li><a href="#">Awarding Process  </a></li>
 
                                       </ul>
 
                                     </li>
                                     <li><a href="/#">Event</a>
                                       <ul class="dropdown">
-                                          <li><a href="/media-team">Event Calender</a></li>
+                                          <!-- <li><a href="/">Event Calender</a></li> -->
                                           <li><a href="{{url('seat-booking')}}">Seat booking</a></li>
-                                          <li><a href="/">sponsorship </a></li>
-                                            <li><a href="/">Pricing</a></li>
+                                          <li><a href="{{url('sponsorship')}}">sponsorship </a></li>
+                                            <li><a href="{{url('pricing')}}">Pricing</a></li>
 
 
 
@@ -118,10 +118,10 @@
                                     <!-- <li><a href="/sermons">Sermons</a></li> -->
                                     <li><a href="/#">Nominations </a>
                                       <ul class="dropdown">
-                                          <li><a href="/media-team">Nomination_Benefits</a></li>
-                                          <li><a href="/outreach-team">Submission </a></li>
-                                          <li><a href="{{ url('nominate')}}">Enter Nomination </a></li>
-                                            <li><a href="/">Nomination rules </a></li>
+                                          <li><a href="/">Nomination_Benefits</a></li>
+                                          <!-- <li><a href="/">Submission </a></li> -->
+                                          <!-- <li><a href="{{ url('nominate')}}">Enter Nomination </a></li> -->
+                                            <!-- <li><a href="/">Nomination rules </a></li> -->
 
                                           <!-- <li><a href="sermons.html">Prayer Team</a></li> -->
                                           <!-- <li><a href="sermons-details.html">Prayer</a></li> -->
@@ -131,8 +131,8 @@
                                     </li>
                                     <li><a href="/#">Endorsement</a>
                                       <ul class="dropdown">
-                                          <li><a href="/media-team">Endorsement</a></li>
-                                          <li><a href="/outreach-team">Organisers </a></li>
+                                          <li><a href="/">Endorsement</a></li>
+                                          <li><a href="/">Organisers </a></li>
                                           <!-- <li><a href="/">Why Attend </a></li> -->
                                             <!-- <li><a href="/">Downloads </a></li> -->
 
@@ -142,7 +142,7 @@
                                       </ul>
 
                                     </li>
-                                    <li><a href="/#">2019 Winners</a></li>
+                                    <li><a href="/">2019 Winners</a></li>
 
                                 </ul>
 

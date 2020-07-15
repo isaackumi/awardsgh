@@ -67,13 +67,13 @@
 
 
 
-          <div class="col-12">
+          <div class="col-12 container">
         <div class="section-heading">
-        <h3 style="align: center;">Sponsorship Options</h3>
+        <h3 class="container">Sponsorship Options</h3>
 
-  <div class="card-group mt-5">
+  <div class="card-group mt-5 container">
   <div class="card shadow-sm p-3 mb-5 bg-white rounded">
-    <div class="card-body ">
+    <div class="card-body contianer">
       <h6 class="card-title">Platinum – GHC100, 000</h6>
       <h6 class="card-title">Gold – GHC80, 000</h6>
       <h6 class="card-title"> Silver – GHC60, 000</h6>

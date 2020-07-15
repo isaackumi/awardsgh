@@ -24,3 +24,4 @@ Route::get('/seat-booking','PagesController@seatBooking')->name('seat-booking');
 Route::get('/faqs','PagesController@faqs')->name('faqs');
 Route::get('/pricing','PagesController@pricing')->name('pricing');
 Route::get('/sponsorship','PagesController@sponsorship')->name('sponsorship');
+Route::get('/award-category','PagesController@awardCategory')->name('award-category');

@@ -34,4 +34,8 @@ class PagesController extends Controller
    Public function sponsorship(){
      return view('sponsorship');
    }
+
+   Public function awardCategory(){
+     return view('award-category');
+   }
 }
