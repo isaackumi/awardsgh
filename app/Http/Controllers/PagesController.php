@@ -55,4 +55,8 @@ class PagesController extends Controller
       Public function selectionCriteria(){
         return view('selection-criteria', ['title' => 'selection criteria']);
       }
+
+      Public function covid(){
+        return view('covid-19', ['title' => 'selection criteria']);
+      }
 }

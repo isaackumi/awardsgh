@@ -21,61 +21,50 @@
 
 
 
-<section class="about-area section-padding-100-0">
+<div class="contact-form section-padding-0-100">
     <div class="container">
         <div class="row">
-            <!-- Section Heading -->
-            <div class="col-12">
-                <div class="section-heading">
-                    <!-- <h2>National Communications Awards</h2> -->
-                    <h3 class="mt-10">The Awarding Process</h3>
 
-                  <p>
-                    The following levels of supervision, authentication, and validation, will be implemented to guard the credibility of the awards;<br>
+
+            <div class="container">
+
+          <br>  <h5>
+The Awarding Process
+</h5>
+<p>
+  The following levels of supervision, authentication, and validation, will be implemented to guard the credibility of the awards;
 •	Nominations by interested persons and a competent and independent research committee<br>
 •	Request for data from nominated companies and persons<br>
-•	Online voting<br>
+•	Online voting <br>
 •	Vetting of data and report writing by a technically competent committee<br>
 •	Validation<br>
-•	Awarding Board<br>
+•	Awarding Board
 
-                  </p>
+</p>
 
-                  <h3 class="mt-10">How to enter</h3>
+<h6>How to enter</h6>
 
-                  <p>
-                    Visit www.nationalcommunicationsawards.com and enter selected categories. Individuals and companies can enter more than one category. You can email additional documents to info@ghanamediaawards.com
-                  </p>
-
-                  <h3 class="mt-10">Checklist</h3>
-
-                  <p>
-                    You may attach supporting documents to your entry, such as: <br>
+<p>
+  Visit www.nationalcommunicationsawards.com and enter selected categories. Individuals and companies can enter more than one category. You can email additional documents to info@ghanamediaawards.com
+Check list
+You may attach supporting documents to your entry, such as:<br>
 •	Product / project specific corporate collateral<br>
 •	Photography<br>
-•	Web links and links to videos and other information are acceptable as part of an entry<br>
+•	Web links and links to videos and other information are acceptable as part of an entry
 
-                  </p>
+</p>
 
-
-                </div>
-            </div>
-
-
-
-
-
-  </div>
-
-  </div>
 </div>
 
-                </div>
-            </div>
+
+
+
+
+
 
         </div>
 
     </div>
-</section>
+</div>
 
 @include('partials.footer')

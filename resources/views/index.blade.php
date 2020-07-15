@@ -125,7 +125,7 @@
                     <div class="col-12">
                         <div class="section-heading text-left white">
                             <!-- <h2>Upcoming Events</h2> -->
-                            <p>Be sure to visit our Upcoming Events page regularly to get infomartion</p>
+                            <!-- <p>Be sure to visit our Upcoming Events page regularly to get infomartion</p> -->
                         </div>
                     </div>
                 </div>
@@ -248,5 +248,4 @@
     <!-- ##### Upcoming Events Area End ##### -->
 
 
-@include('partials.subscribe')
 @include('partials.footer')
