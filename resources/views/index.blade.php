@@ -6,22 +6,8 @@
 
   @include('partials.welcome')
 
-    <!-- ##### Call To Action Area Start ##### -->
-    <section class="call-to-action-area section-padding-100 bg-img " style="background-image: url({{asset('assets/img/rad/NCAWARDS_2020.jpg')}} );">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="call-to-action-content text-center">
-                        <!-- <h6>About National Communications Award</h6> -->
-                        <!-- <h>Find a place to connect and grow through a small group, class, or regular gathering.</h2> -->
-                        <!-- <p style="color: white;">National Communications Awards is a development communications and media awards programme powered by RAD Communications and partners, to champion communications, organizational and national development. The event will celebrate and reward excellent communications and media companies, teams and individuals across Ghana. </p> -->
-                        <!-- <a href="#" class="btn crose-btn btn-2">Join Now</a> -->
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- ##### Call To Action Area End ##### -->
+
+
 
     <!-- ##### Latest Sermons Area Start ##### -->
     <section class="latest-sermons-area section-padding-100-0">
@@ -31,7 +17,7 @@
                 <div class="col-12">
                     <div class="section-heading">
                         <h2>Event Calender</h2>
-                        <div class="mt-10">
+                        <div class="">
                           <p>Official Launch and Opening of Nominations  -<strong> 20th July 2020</strong> </p>
                           <p>Unveiling of Nominees and Voting – <strong>31st August 2020</strong> </p>
                           <p>Event Day – Saturday, <strong>7th November 2020</strong> </p>
@@ -131,14 +117,14 @@
 
     <!-- ##### Upcoming Events Area Start ##### -->
     <section class="upcoming-events-area section-padding-0-100">
-        <!-- Upcoming Events Heading Area -->
-        <div class="upcoming-events-heading bg-img bg-overlay bg-fixed" style="background-image: url({{asset('assets/img/rad/appoinment-bg.png')}} );">
+
+        <!-- <div class="upcoming-events-heading bg-img bg-overlay bg-fixed" style="background-image: url({{asset('assets/img/rad/appoinment-bg.png')}} );"> -->
             <div class="container">
                 <div class="row">
-                    <!-- Section Heading -->
+
                     <div class="col-12">
                         <div class="section-heading text-left white">
-                            <h2>Upcoming Events</h2>
+                            <!-- <h2>Upcoming Events</h2> -->
                             <p>Be sure to visit our Upcoming Events page regularly to get infomartion</p>
                         </div>
                     </div>
@@ -178,53 +164,6 @@
                                     </div>
                                 </div>
 
-                              <!--
-                                <div class="single-upcoming-events-area d-flex flex-wrap align-items-center">
-
-                                    <div class="upcoming-events-thumbnail">
-                                        <img src="{{asset('assets/img/rad/nca_5466.jpg')}} " alt="">
-                                    </div>
-
-                                    <div class="upcoming-events-content d-flex flex-wrap align-items-center">
-                                        <div class="events-text">
-                                            <h4>Rising Star Awards</h4>
-                                            <div class="events-meta">
-                                                <a href="#"><i class="fa fa-calendar" aria-hidden="true"></i> March 06, 2020</a>
-                                                <a href="#"><i class="fa fa-clock-o" aria-hidden="true"></i> 09:00 - 11:00</a>
-                                                <a href="#"><i class="fa fa-map-marker" aria-hidden="true"></i> Ofakor Barrier, Greater Accra</a>
-                                            </div>
-
-                                            <a href="/">Read More <i class="fa fa-angle-double-right"></i></a>
-                                        </div>
-                                        <div class="find-out-more-btn">
-                                            <a href="/" class="btn crose-btn btn-2">Find Out More</a>
-                                        </div>
-                                    </div>
-                                </div> -->
-
-                                <!-- Single Upcoming Events Area -->
-                                <!-- <div class="single-upcoming-events-area d-flex flex-wrap align-items-center">
-
-                                    <div class="upcoming-events-thumbnail">
-                                        <img src=" {{asset('assets/img/rad/slider-img-2.jpg')}} " alt="">
-                                    </div>
-
-                                    <div class="upcoming-events-content d-flex flex-wrap align-items-center">
-                                        <div class="events-text">
-                                            <h4>Coordinators Camp 2020</h4>
-                                            <div class="events-meta">
-                                                <a href="#"><i class="fa fa-calendar" aria-hidden="true"></i> March 19, 2018</a>
-                                                <a href="#"><i class="fa fa-clock-o" aria-hidden="true"></i> 09:00 - 17:00</a>
-                                                <a href="#"><i class="fa fa-map-marker" aria-hidden="true"></i> 17 Buit St, Center Disce, LA</a>
-                                            </div>
-                                            <p>Join us for an informational webinar about the U.S.-Japan COIL Initiative. Learn about the initiative and receive general guidance.</p>
-                                            <a href="#">Read More <i class="fa fa-angle-double-right"></i></a>
-                                        </div>
-                                        <div class="find-out-more-btn">
-                                            <a href="#" class="btn crose-btn btn-2">Find Out More</a>
-                                        </div>
-                                    </div>
-                                </div> -->
                             </div>
 
                             <!-- <div class="single-slide"> -->

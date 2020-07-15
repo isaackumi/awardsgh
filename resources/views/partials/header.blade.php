@@ -85,7 +85,7 @@
                                         <ul class="dropdown">
                                             <li><a href="/">About The Awards</a></li>
                                             <li><a href="{{url('faqs')}}">FAQ's </a></li>
-                                            <li><a href="#">Why Attend </a></li>
+                                            <!-- <li><a href="#">Why Attend </a></li> -->
                                               <!-- <li><a href="/">Downloads </a></li> -->
 
                                             <!-- <li><a href="sermons.html">Prayer Team</a></li> -->
@@ -97,17 +97,17 @@
                                       <ul class="dropdown">
                                           <li><a href="{{url('award-category')}}">Award_Categories</a></li>
                                           <!-- <li><a href="#">Awarding_Board </a></li> -->
-                                          <li><a href="{{url('award-process')}}">Awarding_Process  </a></li>
+                                          <li><a href="{{url('award-process')}}">Category_Definition  </a></li>
 
                                       </ul>
 
                                     </li>
                                     <li><a href="/#">Event</a>
                                       <ul class="dropdown">
-                                          <!-- <li><a href="/">Event Calender</a></li> -->
-                                          <li><a href="{{url('seat-booking')}}">Seat booking</a></li>
+                                          <li><a href="/">Event Calender</a></li>
+                                          <!-- <li><a href="{{url('seat-booking')}}">Seat booking</a></li> -->
                                           <li><a href="{{url('sponsorship')}}">sponsorship </a></li>
-                                            <li><a href="{{url('pricing')}}">Pricing</a></li>
+                                            <!-- <li><a href="{{url('pricing')}}">Pricing</a></li> -->
 
 
 
@@ -115,34 +115,21 @@
 
 
                                     </li>
-                                    <!-- <li><a href="/sermons">Sermons</a></li> -->
-                                    <li><a href="/#">Nominations </a>
-                                      <ul class="dropdown">
-                                          <li><a href="/">Nomination_Benefits</a></li>
-                                          <!-- <li><a href="/">Submission </a></li> -->
-                                          <!-- <li><a href="{{ url('nominate')}}">Enter Nomination </a></li> -->
-                                            <!-- <li><a href="/">Nomination rules </a></li> -->
 
-                                          <!-- <li><a href="sermons.html">Prayer Team</a></li> -->
-                                          <!-- <li><a href="sermons-details.html">Prayer</a></li> -->
+                                    <li id="nominations"><a href="#">Nominations </a>
 
-                                      </ul>
 
                                     </li>
                                     <li><a href="/#">Endorsement</a>
                                       <ul class="dropdown">
-                                          <li><a href="/">Endorsement</a></li>
-                                          <li><a href="/">Organisers </a></li>
-                                          <!-- <li><a href="/">Why Attend </a></li> -->
-                                            <!-- <li><a href="/">Downloads </a></li> -->
+                                          <li><a href="#">Endorsement</a></li>
+                                          <li><a href="#">Organisers </a></li>
 
-                                          <!-- <li><a href="sermons.html">Prayer Team</a></li> -->
-                                          <!-- <li><a href="sermons-details.html">Prayer</a></li> -->
 
                                       </ul>
 
                                     </li>
-                                    <li><a href="/">2019 Winners</a></li>
+                                    <li><a href="#">2019 Winners</a></li>
 
                                 </ul>
 
