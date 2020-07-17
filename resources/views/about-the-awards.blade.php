@@ -29,7 +29,7 @@
             <div class="container">
 
 
-<br><h5>Announcing the Coronavirus Reporting Award 2020  </h5>
+<br><h5>About the National Communiacations Awards </h5>
 <p>
   National Communications Awards is a development communications and media awards program powered by RAD Communications and partners, to champion communications, organizational and national development. The event will celebrate and reward excellent communications and media companies, teams and individuals across Ghana.
 </p>

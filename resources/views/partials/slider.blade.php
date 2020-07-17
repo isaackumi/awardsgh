@@ -6,7 +6,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="hero-slides-content">
-                        <h2 data-animation="fadeInUp" id="typed-strings" data-delay="100ms">National Communications Awards</h2>
+                        <!-- <h2 data-animation="fadeInUp" id="typed-strings" data-delay="100ms">National Communications Awards</h2> -->
                         <h2 data-animation="fadeInUp" id="typed" data-delay="100ms"></h2>
                         <!-- <p data-animation="fadeInUp" data-delay="300ms">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident</p> -->
                         <!-- <a href="/about" class="btn crose-btn" data-animation="fadeInUp" data-delay="500ms">Nominate</a> -->

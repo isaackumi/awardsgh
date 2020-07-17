@@ -114,6 +114,7 @@ Copyrights © 2020 All Rights Reserved by RADComm LLC.
     <!-- Active js -->
     <script src=" {{asset('assets/js/active.js')}}"></script>
     <!-- <script src="../../public/js/type.js"></script> -->
+    <script>Cognito.load("forms", { id: "1" });</script>
 </body>
 
 </html>

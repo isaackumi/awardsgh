@@ -17,7 +17,7 @@
     <!-- Core Stylesheet -->
     <link rel="stylesheet" href=" {{asset('assets/css/style.css')}}">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>
-
+    <script src="https://www.cognitoforms.com/s/JD3WAxPEnE2ZYRQMBff3Lg"></script>
 </head>
 
 <body>

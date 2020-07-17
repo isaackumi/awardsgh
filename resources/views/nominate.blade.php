@@ -9,7 +9,7 @@
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href="#"><i class="fa fa-home"></i> Home</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">Contact</li>
+                            <li class="breadcrumb-item active" aria-current="page">Nominations</li>
                         </ol>
                     </nav>
                 </div>
@@ -24,43 +24,14 @@
     </div>
     <!-- ##### Google Maps End ##### -->
 
-    <!-- ##### Contact Area Start ##### -->
-    <!-- <section class="contact-area mt-10">
-        <div class="container mt-10">
-            <div class="row">
-                <div class="col-12">
-                    <div class="contact-content-area">
-                        <div class="row">
-                            <div class="col-12 col-md-4">
-                                <div class="contact-content contact-information">
-                                    <h4>Contact</h4>
-                                    <p>info.deercreative@gmail.com</p>
-                                    <p>(+12) 345 - 678 - 1000</p>
-                                </div>
-                            </div>
-                            <div class="col-12 col-md-4">
-                                <div class="contact-content contact-information">
-                                    <h4>Address</h4>
-                                    <p>112/28 Baria, 5543 Aliquet St</p>
-                                    <p>NewYork City, US</p>
-                                </div>
-                            </div>
-                            <div class="col-12 col-md-4">
-                                <div class="contact-content contact-information">
-                                    <h4>Opening Hours</h4>
-                                    <p>Mon-Sat: 10 Am to 6 Pm</p>
-                                    <p>Sunday: Close</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
-    <!-- ##### Contact Area End ##### -->
+    <a  class="cognito btn btn-primary" id="1">
 
-    <!-- ##### Contact Form Area Start ##### -->
+add here
+
+
+</a>
+
+
     <div class="contact-form section-padding-0-100">
         <div class="container">
             <div class="row">

@@ -129,28 +129,43 @@
 
  </p>
 
- <h6>COVID-19 REPORTING AWARD</h6>
+ <!-- <h6>COVID-19 REPORTING AWARD</h6> -->
 
- <p>
+ <!-- <p>
    41.	Journalist at the frontline<br>
 42.	Outstanding Media Brand (dedicated to COVID-19 education, special coverage etc.)<br>
 43.	COVID-19 TV Program<br>
 44.	COVID-19 Radio Program<br>
 45.	COVID-19 Technology Innovation Product
 
- </p>
+ </p> -->
 
  <h6>COMMUNICATIONS/MEDIA LEADERSHIP & ENTREPRENEURSHIP</h6>
 
 <p>
-  46.	Communications Personality Of The Year<br>
-47.	Media CEO Of The Year<br>
-48.	Media HR Of The Year<br>
-49.	Corporate Communicator Of The Year<br>
-50.	Media Brand Of The Year<br>
-51.	Brand Ambassador Of The Year<br>
-52.	Media Sales Team Of The Year
+  41.	Communications Personality Of The Year<br>
+42.	Media CEO Of The Year<br>
+43.	Media HR Of The Year<br>
+44.	Corporate Communicator Of The Year<br>
+45.	Media Brand Of The Year<br>
+46.	Brand Ambassador Of The Year<br>
+47.	Media Sales Team Of The Year
 
+</p>
+
+
+<h6>COVID-19 REPORTING AWARD</h6>
+
+
+<p>
+  National Communications Awards this year come at an unusual time, as we face the Covid-19 pandemic. In response to the exceptional work of journalists and filmmakers covering the impact of the COVID-19 pandemic in Ghana, we are introducing the Coronavirus Reporting Award 2020.  We did not want to wait till next year. Entries are open now and the winner will be announced in November 2020. Categories include;<br>
+48.	Journalist at the frontline<br>
+49.	Outstanding Media Brand (dedicated to COVID-19 education, special coverage etc.)<br>
+50.	COVID-19 TV Program<br>
+51.	COVID-19 Radio Program<br>
+52.	COVID-19 Technology Innovation Product<br>
+ We want to champion and celebrate the outstanding works of communicators within these unusual times.<br>
+The Award will be for a piece of media in any format, including print, film, audio, or digital media.
 </p>
 
 
