@@ -15,16 +15,17 @@
             <div class="col-12">
                 <div class="section-heading">
                     <h3>Why Participate?</h3>
-                    <ul class="list-group">
-                      <li class="list-group-item ">• Maximum Brand Exposure</li>
-                      <li class="list-group-item ">•	Ghana’s Biggest Gathering of the Communications and Media Community</li>
-                      <li class="list-group-item ">•	Gain Company / Individual Recognitions</li>
-                      <li class="list-group-item ">•	A unique opportunity to be recognised by some of the industry’s top professionals and to gain a wider audience for your work </li>
-                      <li class="list-group-item ">•	They are established, providing a platform for the impact of media professionals to be celebrated</li>
-                      <li class="list-group-item ">•	They are diverse and open to entries from across Ghana.</li>
 
+                    <p>
+                      •	Maximum Brand Exposure<br>
+•	Ghana’s Biggest Gathering of the Communications and Media Community<br>
+•	Gain Company / Individual Recognitions<br>
+•	A unique opportunity to be recognised by some of the industry’s top professionals and to gain a wider audience for your work<br>
+•	They are established, providing a platform for the impact of media professionals to be celebrated<br>
+•	They are diverse and open to entries from across Ghana.<br>
 
-                    </ul>
+                    </p>
+
                     <!-- <p>National Communications Awards is a development communications and media awards program powered by RAD Communications and partners, to champion communications, organizational and national development. The event will celebrate and reward excellent communications and media companies, teams and individuals across Ghana. </p> -->
                 </div>
             </div>
@@ -34,34 +35,42 @@
                     <h3>The purpose of National Communications Awards 2020</h3>
                     <p>To bring together players in the media and communications industry and recognize achievements from local and international companies involved in the media and communications sector in Ghana.</p>
 
-                    <a href="#"></a>
+                    <!-- <a href="{{url('nominate')}}" class="btn crose-btn header-btn ml-4">Click to Add your nominations</a> -->
                 </div>
             </div>
 
         </div>
 
-        <div class="row about-content justify-content-center">
-            <!-- Single About Us Content -->
-            <div class="col-12 col-md-6 col-lg-4">
-                <div class="about-us-content mb-100">
-                    <!-- <img src="{{asset('assets/img/rad/slider-img-5.jpg')}} " alt=""> -->
-                    <div class="about-text">
-                        <a href="https://www.cognitoforms.com/RADCommunicationsLLC/nationalcommunicationsawards2020" class="btn crose-btn header-btn ml-4" target="_blank" style="color:white;" >ClICK TO ADD YOUR NOMINATIONS </a>
-                        <!-- <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p> -->
-                        <!-- <a href="#">Read More <i class="fa fa-angle-double-right"></i></a> -->
+
+
+
+
+        <div class="contact-form section-padding-0-100">
+            <div class="container">
+                <div class="row">
+                    <!-- Section Heading -->
+                    <div class="col">
+                        <div class="section-heading">
+                            <!-- <h2>Add Nomination</h2> -->
+
+
+                            <div class="cognito">
+
+    <script>Cognito.load("forms", { id: "1" });</script>
+    </div>
+
+                        </div>
                     </div>
                 </div>
+
+
             </div>
-
-
-
-
-
-
-
-
-
-
         </div>
-    </div>
+
+
+
+
+
+
+
 </section>

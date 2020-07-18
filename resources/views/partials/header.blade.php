@@ -81,7 +81,7 @@
                             <div class="classynav">
                                 <ul>
                                     <li><a href="/">Home</a></li>
-                                    <li><a href="/">About</a>
+                                    <li><a href="{{url('about-the-awards')}}">About</a>
                                         <ul class="dropdown">
                                             <li><a href="{{url('about-the-awards')}}">About The Awards</a></li>
                                             <li><a href="{{url('faqs')}}">FAQ's </a></li>
@@ -102,7 +102,7 @@
                                       </ul>
 
                                     </li>
-                                    <li><a href="/#">Event</a>
+                                    <li><a href="/#">sponsorship</a>
                                       <ul class="dropdown">
                                           <li><a href="#">Event Calender</a></li>
                                           <!-- <li><a href="{{url('seat-booking')}}">Seat booking</a></li> -->
@@ -116,7 +116,7 @@
 
                                     </li>
 
-                                    <li id="nominations"><a href="#">Nominations </a>
+                                    <li id="nominations"><a href="{{url('nominate')}}">Nominations </a>
 
 
                                     </li>
@@ -129,7 +129,7 @@
                                       </ul>
 
                                     </li>
-                                    <li><a href="#">2019 Winners</a></li>
+                                    <li><a href="{{url('2019-winners')}}">2019 Winners</a></li>
 
                                 </ul>
 

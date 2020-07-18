@@ -63,4 +63,10 @@ class PagesController extends Controller
       Public function about(){
         return view('about-the-awards', ['title' => 'selection criteria']);
       }
+
+
+
+      Public function winners2019(){
+        return view('2019-winners');
+      }
 }

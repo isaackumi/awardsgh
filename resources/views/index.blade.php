@@ -10,7 +10,7 @@
 
 
     <!-- ##### Latest Sermons Area Start ##### -->
-    <section class="latest-sermons-area section-padding-100-0">
+    <section class="latest-sermons-area">
         <div class="container">
             <div class="row">
 
