@@ -35,7 +35,7 @@
                     <h3>The purpose of National Communications Awards 2020</h3>
                     <p>To bring together players in the media and communications industry and recognize achievements from local and international companies involved in the media and communications sector in Ghana.</p>
 
-                    <!-- <a href="{{url('nominate')}}" class="btn crose-btn header-btn ml-4">Click to Add your nominations</a> -->
+                    <a href="{{url('nominate')}}" class="btn crose-btn header-btn mt-5">Click to Add your nominations</a>
                 </div>
             </div>
 
@@ -45,13 +45,13 @@
 
 
 
-        <div class="contact-form section-padding-0-100">
+        <!-- <div class="contact-form section-padding-0-100">
             <div class="container">
                 <div class="row">
-                    <!-- Section Heading -->
+
                     <div class="col">
                         <div class="section-heading">
-                            <!-- <h2>Add Nomination</h2> -->
+
 
 
                             <div class="cognito">
@@ -65,7 +65,7 @@
 
 
             </div>
-        </div>
+        </div> -->
 
 
 
